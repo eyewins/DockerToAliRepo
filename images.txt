@@ -12,4 +12,6 @@
 #jenkinsci/blueocean
 #jenkins/jenkins:lts-jdk17
 #sonarqube:latest
-nginx:latest
+#nginx:latest
+alpine:latest
+nginx:alpine
