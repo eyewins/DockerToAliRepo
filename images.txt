@@ -13,5 +13,6 @@
 #jenkins/jenkins:lts-jdk17
 #sonarqube:latest
 #nginx:latest
-alpine:latest
-nginx:alpine
+#alpine:latest
+#nginx:alpine
+java:8
