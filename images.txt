@@ -15,4 +15,4 @@
 #nginx:latest
 #alpine:latest
 #nginx:alpine
-java:8
+openjdk:8-jre-alpine
