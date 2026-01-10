@@ -16,4 +16,5 @@
 #alpine:latest
 #nginx:alpine
 #openjdk:8-jre-alpine
-openjdk:8-jre
+#openjdk:8-jre
+nvidia/cuda:12.2.0-base-ubuntu22.04
