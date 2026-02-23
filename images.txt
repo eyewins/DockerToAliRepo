@@ -23,5 +23,6 @@
 #python:3.11-slim
 #python:3.10-slim
 #milvus:latest
-milvusdb/milvus:v2.3.7
+#milvusdb/milvus:v2.3.7
 #minio/minio:RELEASE.2023-12-23T07-19-11Z
+zilliz/attu:latest
