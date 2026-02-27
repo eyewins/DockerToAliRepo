@@ -1,5 +1,5 @@
 #redis:7.4.1
-redis:6-alpine
+#redis:6-alpine
 #nginx:1.27.2
 #mysql:8.4.3
 #nacos/nacos-server:v2.4.3
@@ -27,3 +27,4 @@ redis:6-alpine
 #milvusdb/milvus:v2.3.7
 #minio/minio:RELEASE.2023-12-23T07-19-11Z
 #zilliz/attu:latest
+kibana/kibana:7.17.17
