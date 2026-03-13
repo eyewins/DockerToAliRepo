@@ -31,4 +31,5 @@
 #kibana:7.17.17
 #medcl/elasticsearch:7.17.17
 #ghcr.io/huggingface/text-generation-inference:2.0
-vllm/vllm-openai:latest
+#vllm/vllm-openai:latest
+mysql:8.0
