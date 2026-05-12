@@ -32,4 +32,5 @@
 #medcl/elasticsearch:7.17.17
 #ghcr.io/huggingface/text-generation-inference:2.0
 #vllm/vllm-openai:latest
-mysql:8.0
+#mysql:8.0
+maven:3.9-eclipse-temurin-17
