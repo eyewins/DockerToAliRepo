@@ -33,4 +33,5 @@
 #ghcr.io/huggingface/text-generation-inference:2.0
 #vllm/vllm-openai:latest
 #mysql:8.0
-maven:3.9-eclipse-temurin-17
+#maven:3.9-eclipse-temurin-17
+eclipse-temurin:17-jre-alpine
