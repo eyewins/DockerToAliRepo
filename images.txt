@@ -34,4 +34,5 @@
 #vllm/vllm-openai:latest
 #mysql:8.0
 #maven:3.9-eclipse-temurin-17
-eclipse-temurin:17-jre-alpine
+#eclipse-temurin:17-jre-alpine
+swr.cn-south-1.myhuaweicloud.com/ascendhub/bge-m3:7.1.T9-aarch64
