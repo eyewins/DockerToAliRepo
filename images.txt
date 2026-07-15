@@ -37,4 +37,5 @@
 #eclipse-temurin:17-jre-alpine
 #swr.cn-south-1.myhuaweicloud.com/ascendhub/bge-m3:7.1.T9-aarch64
 #langgenius/dify-api:1.13.3
-langgenius/dify-web:1.13.3
+#langgenius/dify-web:1.13.3
+postgres:15-alpine
