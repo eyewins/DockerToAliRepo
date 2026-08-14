@@ -1,3 +1,4 @@
+
 #redis:7.4.1
 #redis:6-alpine
 #nginx:1.27.2
@@ -43,5 +44,6 @@
 #langgenius/dify-sandbox:0.2.14
 #langgenius/dify-plugin-daemon:0.5.3-local
 #busybox:latest
-ubuntu/squid:latest
+#ubuntu/squid:latest
+langgenius/dify-plugin-daemon:0.6.0-local
 
